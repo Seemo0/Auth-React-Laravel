@@ -8,7 +8,7 @@ const AuthLayout = () => {
     <>
       <nav className="rounded bg-indigo-700 text-white px-2 py-2.5 sm:px-4">
         <div className="container mx-auto flex flex-wrap items-center justify-between">
-          <a href="" className="flex items-center">
+          <a href="" className="flex font-bold items-center">
             Semo
           </a>
           <div className="hidden w-full md:block md:w-auto">
